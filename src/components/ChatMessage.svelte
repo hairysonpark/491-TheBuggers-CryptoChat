@@ -22,6 +22,7 @@
         flex-direction: row;
         align-items: flex-start;
         margin: 10px 0;
+        color: white
     }
     
     .message *{

@@ -8,4 +8,5 @@
 .svelte-kit/
 package
 node_modules
+.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/svelte

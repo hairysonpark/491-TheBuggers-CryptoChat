@@ -1,5 +1,6 @@
 # Crypto Chat
-
+Testing Jira integration with GitHub
+oop forgot issue key
 
 ## Developing
 

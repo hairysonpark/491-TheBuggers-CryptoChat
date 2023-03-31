@@ -1,5 +1,5 @@
 # Crypto Chat
-
+Testing Jira integration with GitHub
 
 ## Developing
 
